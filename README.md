@@ -20,6 +20,7 @@ If you like this software, consider making a donation to the developer. Thank yo
 # Used Libs
 - Leaf.xNet
 - Colorful.Console
+- Newtonsoft
 
 
  
